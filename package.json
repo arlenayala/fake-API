@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SofiDevO/alurageek-API.git"
+    "url": "https://github.com/arlenayala/fake-API"
   },
   "keywords": [
     "alura",
@@ -17,12 +17,12 @@
     "javascript",
     "API"
   ],
-  "author": "Sofidev, contact@itssofi.dev",
+  "author": "arlenayala",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SofiDevO/alurageek-API/issues"
+    "url": "https://github.com/arlenayala/fake-API"
   },
-  "homepage": "https://github.com/SofiDevO/alurageek-API#readme",
+  "homepage": "https://github.com/arlenayala/fake-API/blob/sofidev/README.md",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
